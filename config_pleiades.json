@@ -1,0 +1,15 @@
+{
+    "left_jp2" : "data/jp2/Sample_Pleiades_Stereo_Primary_SurfaceReflectance_Bundle_Marseille/6659711101/IMG_PHR1A_P_001/IMG_PHR1A_P_202211191042343_SEN_6659711101-1_R1C1.JP2",
+    "right_jp2" : "data/jp2/Sample_Pleiades_Stereo_Primary_SurfaceReflectance_Bundle_Marseille/6659711101/IMG_PHR1A_P_002/IMG_PHR1A_P_202211191041565_SEN_6659711101-1_R1C1.JP2",
+    "left_img": "pleiades_results/L_IMG_PHR1A_P_202211191042343_SEN_6659711101-1_R1C1.TIF",
+    "right_img": "pleiades_results/R_IMG_PHR1A_P_202211191041565_SEN_6659711101-1_R1C1.TIF",
+    "left_rpc":  "data/jp2/Sample_Pleiades_Stereo_Primary_SurfaceReflectance_Bundle_Marseille/6659711101/IMG_PHR1A_P_001/RPC_PHR1A_P_202211191042343_SEN_6659711101-1.XML",
+    "right_rpc": "data/jp2/Sample_Pleiades_Stereo_Primary_SurfaceReflectance_Bundle_Marseille/6659711101/IMG_PHR1A_P_002/RPC_PHR1A_P_202211191041565_SEN_6659711101-1.XML",
+    "dem_ref": "data/jp2/srtm_dem.tif",
+    "stereo_prefix": "pleiades_results/out",
+    "front_map_proj": "pleiades_results/front_map_proj.tif",
+    "back_map_proj": "pleiades_results/back_map_proj.tif",
+    "mpp": 1.5,
+    "utm_zone": 31,
+    "resolution": 0.5
+}

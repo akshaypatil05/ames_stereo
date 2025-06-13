@@ -1,0 +1,11 @@
+{
+    "left_img": "data/tif/front/IMG_SPOT6_P_201906210832287_SEN_7416126101_R1C1.TIF",
+    "right_img": "data/tif/back/IMG_SPOT6_P_201906210833144_SEN_7416126101_R1C1.TIF",
+    "left_rpc": "data/tif/front/RPC_SPOT6_P_201906210832287_SEN_7416126101.XML",
+    "right_rpc": "data/tif/back/RPC_SPOT6_P_201906210833144_SEN_7416126101.XML",
+    "dem_ref": "data/tif/dem.tif",
+    "stereo_prefix": "spot_results/out",
+    "front_map_proj": "spot_results/front_map_proj.tif",
+    "back_map_proj": "spot_results/back_map_proj.tif",
+    "mpp": 1.5
+}
